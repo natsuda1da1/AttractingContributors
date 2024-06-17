@@ -21,3 +21,4 @@ Goal - I want to know your favorite songs or musics.
 
 # List of Songs
 1. The Everlasting Guilty Crown
+2. Stay Gold
