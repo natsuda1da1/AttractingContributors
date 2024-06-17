@@ -22,3 +22,4 @@ Goal - I want to know your favorite songs or musics.
 # List of Songs
 1. The Everlasting Guilty Crown
 2. Stay Gold
+3. DRUM GO DUM (feat. Aluna & League of Legends), K/DA
