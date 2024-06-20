@@ -28,3 +28,4 @@ Goal - I want to know your favorite songs or musics.
 6. カエルの歌
 7. Smile - Lily Allen
 8. ethyria
+9. GOLDENWEEK - MILLENIUM PARADE 
