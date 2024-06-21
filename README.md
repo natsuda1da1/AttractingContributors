@@ -30,4 +30,5 @@ Goal - I want to know your favorite songs or musics.
 8. ethyria
 9. GOLDENWEEK - MILLENIUM PARADE 
 10. Amazing Grace
-11. I Dreamed a Dream
+11. 若者のすべて　- フジファブリック
+12. I Dreamed a Dream
