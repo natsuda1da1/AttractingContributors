@@ -34,3 +34,4 @@ tokyo
  Kobe
  Yamatotakada
  Osaka
+ Sakai-minato
